@@ -1,2 +1,2 @@
 # react-tutorials
-some reac tutorials
+some react tutorials
